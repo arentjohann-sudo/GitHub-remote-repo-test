@@ -9,3 +9,4 @@ git reset --hard HEAD~1
 .gitignore ist eine Datei mit der dort genannte andere Dateien ignoriert werden.
 README.md
 LICENSE
+git clone GitHub-URL
