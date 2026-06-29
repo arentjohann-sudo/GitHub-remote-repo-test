@@ -10,3 +10,4 @@ git reset --hard HEAD~1
 README.md
 LICENSE
 git clone GitHub-URL
+git clone GitHub-URL .
